@@ -11,7 +11,7 @@
         - I had the task to create a project that can have the potential to be a real life product, therefore I also had to conduct market research, market segmentation, competitor analysis, etc.
         - I developed a custom CNN model that I tuned myself with a trial and error approach.
 
-* ## Structured data analysis
+* ## Structured data analysis: this contains project where I worked with tabular data
     * Spotify Listening (Personal Project) - February 2024:
         - I requested my listening data up to the end of 2023, which I received in different csv files, so I merged, cleaned, explored and visualized it.
         - The data contains my listening habit from 2017 - 2023.
