@@ -1,0 +1,24 @@
+front_right_top
+[0.253, 0.2195, 0.2895]
+
+back_right_top
+[-0.1871, 0.2195, 0.2895]
+
+back_left_top
+[-0.1869, -0.1705, 0.2895]
+
+front_left_top
+[0.253, -0.1705, 0.2895]
+
+front_left_bottom
+[0.2526, -0.1705, 0.1693]
+
+front_right_bottom
+[0.2526, 0.2195, 0.1695]
+
+back_right_bottom
+[-0.1872, 0.2195, 0.1695]
+
+back_left_bottom
+[-0.187, -0.1705, 0.1695]
+
