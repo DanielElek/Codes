@@ -1,6 +1,6 @@
 # As my first Computer Vision project, I learnt lots of things from it:
     - How Convolutional Neural Networks and their individual layers work
-![model_summary](Soldier_recog_media/Soldier_recog_CNN_architecture.png)
+<img src="Soldier_recog_media/Soldier_recog_CNN_architecture.png" alt="Training process" width="max"/>
 
     - How to use GradCAM to make the model more explainable and to visualize the shortfalls of the model
 <img src="Soldier_recog_media/focusingon_sand.png" alt="Error: focusing on sand" width="400"/> <img src="Soldier_recog_media/inside.png" alt="Error: Soldiers inside" width="400"/>
