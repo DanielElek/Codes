@@ -3,6 +3,7 @@
 ## We needed to create a Computer Vision pipeline that could automatically measure the length of the individual roots of the plants upon creating a photograph of them, as well as finding the very bottom of them for further inoculation by a machine in the research center.
 
 ## Afterwards, we also needed to train a Reinforcement Learning Model to inoculate the end of the root with a 1 mm accuracy
+
     - Step 0: Images get taken by the system
 <img src="media/pic1_raw.png" alt="Raw image" width="700"/>
 
