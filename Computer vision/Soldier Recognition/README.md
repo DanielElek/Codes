@@ -2,7 +2,7 @@
     - How Convolutional Neural Networks and their individual layers work
 <img src="Soldier_recog_media/Soldier_recog_CNN_architecture.png" alt="Training process" width="max"/>
 
-    - How to use GradCAM to make the model more explainable and to visualize the shortfalls of the model
+    - How to use GradCAM to make the model more explainable and to visualize the shortfalls of it
 <img src="Soldier_recog_media/focusingon_sand.png" alt="Error: focusing on sand" width="400"/> <img src="Soldier_recog_media/inside.png" alt="Error: Soldiers inside" width="400"/>
 <img src="Soldier_recog_media/Big_error.png" alt="Error: focusing on edges" width="400"/> <img src="Soldier_recog_media/on_the_tank.png" alt="Soldiers on tank" width="400"/>
 
