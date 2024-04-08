@@ -1,6 +1,8 @@
 # This was the most advanced project I have worked on, with also the strictest client requirements
 
-## We needed to create a computer vision pipeline that could automatically measure the length of the individual roots of the plants upon creating a photograph of them, as well as finding the very bottom of them with a 1 mm accuracy for further inoculation by a machine in the research center.
+## We needed to create a Computer Vision pipeline that could automatically measure the length of the individual roots of the plants upon creating a photograph of them, as well as finding the very bottom of them for further inoculation by a machine in the research center.
+
+## Afterwards, we also needed to train a Reinforcement Learning Model to inoculate the end of the root with a 1 mm accuracy
     - Step 0: Images get taken by the system
 <img src="media/pic1_raw.png" alt="Raw image" width="700"/>
 
@@ -27,3 +29,7 @@
     - Step 6: Measuring the length of each root
 <img src="media/pic1_length.jpg" alt="Root length" width="700"/>
 <img src="media/length_code.png" alt="Lengthfinding code" width="700"/>
+
+    - Step 7: Training the Reinforcement Learning Model
+<img src="media/PID controller.gif" alt="Machine control" width="700"/>
+<img src="media/reinforcement_learning.png" alt="RL_code" width="700"/>
