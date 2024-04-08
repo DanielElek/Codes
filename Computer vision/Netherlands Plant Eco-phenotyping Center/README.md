@@ -34,3 +34,14 @@
     - Step 7: Training the Reinforcement Learning Model
 <img src="media/PID controller.gif" alt="Machine control" width="700"/>
 <img src="media/reinforcement_learning.png" alt="RL_code" width="700"/>
+
+## Overall I learnt
+    - How to crop images relative to the object of interest in it
+    - How to work with masks
+    - How to use U-NET
+    - How to patchify images
+    - How to save memory by offloading data to a folder, and then load it back right as I need it with flow from directory
+    - How to manipulate images using connected components
+    - How to find different informations about objects in an image based on its skeleton
+    - How to train reinforcement learning models
+    - How to design reward functions
